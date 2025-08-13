@@ -1,42 +1,38 @@
-# 👋 Hi, I'm Elizabeth
+ Hi, I'm Elizabeth
+I’m a Full-Stack Web Developer passionate about building scalable, responsive, and impact-driven web applications.
+I specialize in both frontend and backend development, with hands-on experience creating real-world projects from concept to deployment.
 
-I'm a **full-stack web developer** currently training at **Moringa School** in Kenya. I specialize in building **clean**, **responsive**, and **functional** websites and web applications using modern technologies.
+I enjoy solving problems that matter — whether it’s reporting corruption, streamlining business workflows, or crafting smooth user experiences.
+My approach is rooted in clean code, collaboration, and continuous learning.
 
-I enjoy solving real-world problems through code and continuously leveling up my skills. Whether it’s frontend design or backend logic, I love owning the full stack and delivering efficient, scalable solutions.
+🧰 Tech Stack
+Frontend:
+HTML · CSS · JavaScript · React · Tailwind CSS
 
----
+Backend:
+Python (FastAPI / Flask) · Node.js · Express
 
-## 🧰 Tech Stack
+Databases:
+PostgreSQL · SQLite · SQLAlchemy ORM
 
-**Frontend:**  
-HTML · CSS · JavaScript · React
+Tools & Workflow:
+Git · GitHub · Docker · Postman · Agile/Scrum · VS Code
 
-**Backend:**  
-Flask · Express · Node.js
+  Featured Projects 
+Jiseti – Anti-Corruption & Public Reporting Platform (Backend Lead)
+Full-stack platform enabling citizens to report corruption and request government intervention, with geolocation tagging and admin moderation.
+  GitHub Repository
 
-**Databases:**  
-SQLite · PostgreSQL
+  Frexta – SaaS Expense & Inventory Management (Full Stack)
+A cloud-based tool for small businesses to manage expenses, inventory, and sales tracking. Built with React & FastAPI.
+(GitHub link coming soon)
 
-**Tools & Workflow:**  
-Git · GitHub · Postman · VS Code
+  Python CLI Fitness Tracker
+A terminal-based workout tracker to log and monitor fitness progress.
+(GitHub link coming soon)
 
----
+  Let’s Connect
+LinkedIn: Elizabeth Ndinda
+Email: elizabethndinda41@gmail.com
+Portfolio: Coming soon with a brand-new look 👀
 
-## 💼 Featured Projects
-
-- 🔧 **Final Phase Project – Animal Donation Platform**  
-  [GitHub Repository](https://github.com/elizabeth-7664/phase-4-project)
-
-- 🐍 **Flask Donation Tracker API**  
-  [GitHub Repository](https://github.com/elizabeth-7664/flask-donation-tracker)
-
-- 🌐 **Original Portfolio Site** *(HTML, CSS & JavaScript)*  
-  [GitHub Repository](https://github.com/elizabeth-7664/portfolio-project)
-
----
-
-## 📫 Let’s Connect
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/elizabeth-ndinda-b6444a249)  
-- 📧 elizabethndinda41@gmail.com  
-- 🌍 Portfolio: *Coming soon with a brand-new look 👀*
