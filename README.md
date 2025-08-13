@@ -1,6 +1,8 @@
  Hi, I'm Elizabeth
+ 
 I’m a Full-Stack Web Developer passionate about building scalable, responsive, and impact-driven web applications.
 I specialize in both frontend and backend development, with hands-on experience creating real-world projects from concept to deployment.
+
 
 I enjoy solving problems that matter — whether it’s reporting corruption, streamlining business workflows, or crafting smooth user experiences.
 My approach is rooted in clean code, collaboration, and continuous learning.
